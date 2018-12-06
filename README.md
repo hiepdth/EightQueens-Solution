@@ -7,3 +7,7 @@ Chương trình mô phỏng Bài toán 8 con Hậu viết bằng ngôn ngữ JAV
 - Chương trình viết bằng JavaFX
 - Chương trình sử dụng jfoenix-8.0.7.jar
   Link Github: https://github.com/jfoenixadmin/JFoenix
+
+
+Created by Dinh Hiep and Hai Yen
+https://github.com/17020731
